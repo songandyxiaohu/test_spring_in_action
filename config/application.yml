@@ -1,5 +1,5 @@
 greeting:
-  message: hello world11111
+  message: hello world2222
 server:
   port: 0
 eureka:
